@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKim-Hyerin&count_bg=%2394D3D6&title_bg=%23555555&icon=youtubegaming.svg&icon_color=%23F62C19&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hyerin-Kim&show_icons=true)
 
 <!--
 **Kim-Hyerin/Kim-Hyerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
